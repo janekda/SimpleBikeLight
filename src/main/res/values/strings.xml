@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Simple Bike Light</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="lockedRedLight">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+    <string name="interval_back_light">Interval between red light (ms)</string>
+
+</resources>
